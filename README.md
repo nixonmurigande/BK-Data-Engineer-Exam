@@ -1,12 +1,12 @@
 PROJECT TITLE
 
-Providing Python Script files to access APIs from Bank of Kigali. 
+Providing Python Script files to access APIs from BankCo. 
 The script file also allows the dataset gathered to be integrate with other dataset to form a larger dataset for future analysis or predictive analytics.
 
 
 GETTING STARTED
 
-These instructions will get you to acess two APIs from the server of Bank of Kigali. 
+These instructions will get you to acess two APIs from the server of BankCo. 
 
 PREREQUISITES
 
@@ -32,4 +32,4 @@ Run the transaction_final.py to download the transactions dataset from JSON API,
 The transaction_final.py also allow the data manipulation to be done. 
 AUTHOR
 
-Nixon Rudaseswa 
+Nixon Murigande
